@@ -1,0 +1,14 @@
+{
+  "$schema": "https://content.luanti.org/api/cdb_schema/",
+  "title": "Ice",
+  "tags": ["crafting", "decorative", "survival", "building"],
+  "type": "MOD",
+  "dev_state": "MAINTENANCE_ONLY",
+  "ai_disclosure": "NONE",
+  "license": "GPL-3.0-only",
+  "website": "https://mt-mods.github.io/",
+  "repo": "https://github.com/mt-mods/ice/",
+  "issue_tracker": "https://github.com/mt-mods/ice/issues/new/choose/",
+  "translation_url": "https://translate.luanti.ch/engage/mt-mods/",
+  "short_description": "Adds more ice nodes"
+}

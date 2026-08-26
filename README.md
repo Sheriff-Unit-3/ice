@@ -1,4 +1,4 @@
-# Ice nodes [ice]
+# Ice
 
 [![Luacheck](https://github.com/mt-mods/ice/workflows/luacheck/badge.svg)](https://github.com/mt-mods/ice/actions)
 [![Translation status](https://translate.luanti.ch/widget/mt-mods/ice/svg-badge.svg)](https://translate.luanti.ch/engage/mt-mods/)
